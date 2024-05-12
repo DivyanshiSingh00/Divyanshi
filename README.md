@@ -1,4 +1,4 @@
-# Divyanshi
+# DivyanshiSingh00
 ## Hi there 👋
 
 🔭 I’m currently working on Web Development.
