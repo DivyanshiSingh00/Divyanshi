@@ -9,8 +9,9 @@
 [LinkedIn](https://www.linkedin.com/in/divyanshi-singh-7a28b525a/)
 
 ## Tech Stack 💻 
-![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/87c26559-b9b6-40e4-8c2d-2ab050aa6841)
-![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/1f3e2daf-e854-4b88-8fb2-ddff6d0b0e16)
-![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/77a008e4-d570-4ee7-8b2e-c3722b49f5c3)
-![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/0b464ef8-ea4e-4eb4-abba-b345d4142894)
-![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/c1ac4413-495d-4b37-92ea-49ea223c32bf)
+![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/1d2203d0-e894-4999-b499-5a8bf1946a12)
+![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/7c6cc06c-d312-4409-a4d8-b0ab91b22aa9)
+![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/63cd9690-6c50-4b44-b060-a5c5258892ec)
+![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/776f3d9f-f587-498e-85a4-3c5d018d1c41)
+![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/c7f463ea-7142-46fa-ab52-3f62f4baea21)
+
