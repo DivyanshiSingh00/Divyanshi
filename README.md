@@ -3,9 +3,7 @@
 
 🔭 I’m currently working on Web Development.
 
-👯 I’m looking to collaborate on Web Development Projects.
-
-🤖 I'm even looking forward to work in the field of artificial intelligence, data science, and machine learning.
+👯 I’m looking forward to work in the field of artificial intelligence, data science, and machine learning.
 
 🌱 I’m currently learning DSA and frontend development.
 
