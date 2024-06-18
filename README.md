@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Divyanshi
-<h3 align="center">Web Development | Data Science | AI/ML Scholar</h3>
+## Web Development | Data Science | AI/ML Scholar
 
 🔭 I’m currently working on Web Development.
 
@@ -14,11 +14,6 @@
 
 
 ## Tech Stack 💻 
-![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/1d2203d0-e894-4999-b499-5a8bf1946a12)
-![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/7c6cc06c-d312-4409-a4d8-b0ab91b22aa9)
-![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/63cd9690-6c50-4b44-b060-a5c5258892ec)
-![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/776f3d9f-f587-498e-85a4-3c5d018d1c41)
-![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/c7f463ea-7142-46fa-ab52-3f62f4baea21)
-![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/6b85c55f-af51-435c-b3b5-d40e70b02b28)
-![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/8c137dba-95bf-4baa-b184-252161de50a0)
-![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/e1d65756-49e9-41cc-9832-b081667859af)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
