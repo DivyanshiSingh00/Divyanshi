@@ -1,5 +1,5 @@
-# Divyanshi
-## Hi there 👋
+# Hi there 👋 I'm Divyanshi
+<h3 align="center">Web Development | Data Science | AI/ML Scholar</h3>
 
 🔭 I’m currently working on Web Development.
 
@@ -7,8 +7,11 @@
 
 🌱 I’m currently learning DSA and frontend development.
 
-## Socials 🌐
-[LinkedIn](https://www.linkedin.com/in/divyanshi-singh-7a28b525a/)
+## Let's connect 🌐
+<p align="left">
+<a href="https://www.linkedin.com/in/divyanshi-singh-7a28b525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/harshita-sharma-2a40ab25b" height="30" width="40" /></a>
+</p>
+
 
 ## Tech Stack 💻 
 ![image](https://github.com/DivyanshiSingh00/Divyanshi/assets/126316406/1d2203d0-e894-4999-b499-5a8bf1946a12)
